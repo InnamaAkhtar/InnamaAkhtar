@@ -6,6 +6,18 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst passionate about tra
 
 I have worked on projects using **Microsoft Excel and Power BI**, creating interactive dashboards, analyzing sales performance, tracking HR metrics, and developing sales KPIs.
 
+👩‍💻 About Me
+
+📊 Aspiring Data Analyst.
+
+📈 Interested in data visualization, data cleaning, and exploratory data analysis (EDA).
+
+🧹 Learning how to transform raw data into actionable insights.
+
+📚 Continuously improving my technical and analytical skills.
+
+🎯 Goal: To start my professional career as a Data Analyst.
+
 ## 🛠️ Skills & Tools
 
 - **Microsoft Excel:** Data Cleaning, Pivot Tables, Charts, Dashboards
@@ -38,13 +50,21 @@ My goal is to become a skilled Data Analyst by continuously improving my analyti
 
 ## 📚 Currently Learning
 
+- Advanced Excel for Data Analysis
 - Advanced SQL
 - Data Analysis and Visualization
 - Python for Data Analytics
 
 ## 🤝 Let's Connect
+💼 LinkedIn: Visit my LinkedIn
 
-- **GitHub:** [InnamaAkhtar](https://github.com/InnamaAkhtar)
+💻 GitHub: Explore my Projects
+
+📊 Naukri.com: View my Job Profile
+
+📧 Email: your-email@example.com
+
+
 
 I am open to learning opportunities, internships, and entry-level Data Analyst roles.
 
