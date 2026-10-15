@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst passionate about tra
 
 I have worked on projects using **Microsoft Excel and Power BI**, creating interactive dashboards, analyzing sales performance, tracking HR metrics, and developing sales KPIs.
 
-👩‍💻 About Me
+👩‍💻 **About Me**
 
 📊 Aspiring Data Analyst.
 
