@@ -19,7 +19,7 @@ I have worked on projects using **Microsoft Excel and Power BI**, creating inter
 
 | Project | Description | Project Link |
 |---|---|---|
-| HR Dashboard | HR data analysis and employee insights | [View Project](YOUR_EXCEL_HR_LINK) |
+| HR Dashboard | HR data analysis and employee insights | [View Project](https://github.com/InnamaAkhtar/HR-Analyst-Dashboard) |
 | E-commerce Sales Dashboard | E-commerce sales performance analysis | [View Project](https://github.com/InnamaAkhtar/ecommerce-sales-dashboard) |
 | Sales Dashboard | Sales trends and performance analysis | [View Project](https://github.com/InnamaAkhtar/sales-and-salesman-dashboard) |
 | Vrinda Store Analysis | Store sales analysis and business insights | [View Project](YOUR_VRINDA_STORE_LINK) |
