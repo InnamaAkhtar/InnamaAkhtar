@@ -28,7 +28,7 @@ I have worked on projects using **Microsoft Excel and Power BI**, creating inter
 
 | Project | Description | Project Link |
 |---|---|---|
-| HR Dashboard | Interactive HR analytics and workforce insights | [View Project](YOUR_POWERBI_HR_LINK) |
+| HR Dashboard | Interactive HR analytics and workforce insights | [View Project](https://github.com/InnamaAkhtar/HR-Analyst-Dashboard-PowerBI) |
 | Super Store Dashboard | Sales, profit, and business performance analysis | [View Project](YOUR_SUPERSTORE_LINK) |
 | Sales KPI Dashboard | Analysis and visualization of 20 sales KPIs | [View Project](YOUR_SALES_KPI_LINK) |
 
