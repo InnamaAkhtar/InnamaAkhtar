@@ -32,6 +32,14 @@ I have worked on projects using **Microsoft Excel and Power BI**, creating inter
 | Super Store Dashboard | Sales, profit, and business performance analysis | [View Project](https://github.com/InnamaAkhtar/Super-Store-Sales-Dashboard) |
 | Sales KPI Dashboard | Analysis and visualization of 20 sales KPIs | [View Project](YOUR_SALES_KPI_LINK) |
 
+
+## SQL Projects
+
+| **Project** | **Description** | **Project Link** |
+|---|---|---|
+| Retail Sales Analysis using SQL | Analyzed retail sales data using PostgreSQL to identify top-selling products, customer behavior, and monthly sales trends. | [View Project](YOUR_REPOSITORY_LINK) |
+
+
 ## 🎯 Career Objective
 
 My goal is to become a skilled Data Analyst by continuously improving my analytical, technical, and problem-solving skills and building practical projects that solve real-world business problems.
