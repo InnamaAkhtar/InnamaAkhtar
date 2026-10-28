@@ -37,7 +37,7 @@ I have worked on projects using **Microsoft Excel and Power BI**, creating inter
 
 | **Project** | **Description** | **Project Link** |
 |---|---|---|
-| Retail Sales Analysis using SQL | Analyzed retail sales data using PostgreSQL to identify top-selling products, customer behavior, and monthly sales trends. | [View Project](YOUR_REPOSITORY_LINK) |
+| Retail Sales Analysis using SQL | Analyzed retail sales data using PostgreSQL to identify top-selling products, customer behavior, and monthly sales trends. | [View Project](https://github.com/InnamaAkhtar/retail-sales-analysis-sql) |
 
 
 ## 🎯 Career Objective
