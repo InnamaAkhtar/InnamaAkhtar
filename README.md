@@ -54,7 +54,7 @@ My goal is to become a skilled Data Analyst by continuously improving my analyti
 ## 🤝 Let's Connect
 💼 LinkedIn: Visit my LinkedIn
 
-💻 GitHub: Explore my Projects
+💻 GitHub:[ Explore my Projects](https://github.com/InnamaAkhtar/InnamaAkhtar)
 
 📊 Naukri.com: View my Job Profile
 
